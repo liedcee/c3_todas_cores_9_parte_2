@@ -1,0 +1,152 @@
+{
+	"perguntas": [
+		{
+			"pergunta" : "Marque apenas o objeto amarelo",
+			"resposta" : 0
+		},
+		{
+			"pergunta" : "Marque apenas o objeto que não é amarelo",
+			"resposta" : 3	
+		},
+		{
+			"pergunta" : "Na palavra AMARELO temos quantas vogais?",
+			"resposta" : 2
+		},
+		{
+			"pergunta" : "A palavra AMARELO começa com a letra M?",
+			"resposta" : 1	
+		},
+		{
+			"pergunta" : "Qual a última letra da palavra AMARELO?",
+			"resposta" : 2	
+		},
+		{
+			"pergunta" : "Qual vogal não aparece na palavra AMARELO?",
+			"resposta" : 2	
+		},
+		{
+			"pergunta" : "Qual o conjunto que aparece os seguintes objetos: SOL, BANANA e GIRASSOL?",
+			"resposta" : 1	
+		},		
+		{
+			"pergunta" : "Selecione o conjunto que tem 4 bananas",
+			"resposta" : 3
+		},
+		{
+			"pergunta" : "Selecione o conjunto que tem 1 girassol",
+			"resposta" : 0	
+		},
+		{
+			"pergunta" : "Selecione o conjunto com 5 meninos amarelos",
+			"resposta" : 2	
+		},
+		{
+			"pergunta" : "Selecione o conjunto com 2 meninos amarelos",
+			"resposta" : 3	
+		},
+		{
+			"pergunta" : "Selecione o conjunto que tenha apenas meninos brancos",
+			"resposta" : 1	
+		},
+		{
+			"pergunta" : "Selecione o conjunto vazio",
+			"resposta" : 2	
+		},
+		{
+			"pergunta" : "Quantas vogais temos na palavra GIRASSOL?",
+			"resposta" : 1	
+		},
+		{
+			"pergunta" : "Quantas vogais temos na palavra SOL?",
+			"resposta" : 0	
+		},
+		{
+			"pergunta" : "Quantas vogais temos na palavra BANANA?",
+			"resposta" : 2	
+		},
+		{
+			"pergunta" : "Qual a consoante que se repete na palavra BANANA?",
+			"resposta" : 3	
+		},
+		{
+			"pergunta" : "Qual a vogal que se repete na palavra BANANA?",
+			"resposta" : 0	
+		},
+		{
+			"pergunta" : "Qual a consoante que se repete na palavra GIRASSOL?",
+			"resposta" : 1	
+		},
+		{
+			"pergunta" : "Qual o conjunto possui as vogais da palavra GIRASSOL?",
+			"resposta" : 0	
+		},
+		{
+			"pergunta" : "Qual o conjunto possui as consoantes da palavra SOL?",
+			"resposta" : 2	
+		},
+		{
+			"pergunta" : "Qual o conjunto que temos apenas consoantes?",
+			"resposta" : 2	
+		},
+		{
+			"pergunta" : "Qual o objeto amarelo que começa com a mesma letra da palavra BONECO?",
+			"resposta" : 2	
+		},
+		{
+			"pergunta" : "Quantas letras tem a palavra SOL?",
+			"resposta" : 1	
+		},
+		{
+			"pergunta" : "Quanta letras tem a palavra BANANA?",
+			"resposta" : 1	
+		},
+		{
+			"pergunta" : "Quantas Letras tem a palavra AMARELO?",
+			"resposta" : 2	
+		},
+		{
+			"pergunta" : "Quantas letras tem a palavra GIRASSOL?",
+			"resposta" : 3	
+		},
+		{
+			"pergunta" : "Mostre qual é o SOL",
+			"resposta" : 0	
+		},
+		{
+			"pergunta" : "Mostre qual é a BANANA MADURA",
+			"resposta" : 2	
+		},
+		{
+			"pergunta" : "Mostre qual é o GIRASSOL",
+			"resposta" : 1	
+		},
+		{
+			"pergunta" : "Qual dessas cores é BRANCA?",
+			"resposta" : 0	
+		},
+		{
+			"pergunta" : "Qual dessas cores é AMARELA?",
+			"resposta" : 3	
+		},
+		{
+			"pergunta" : "Considerando a quantidade de letras qual é a maior palavra?",
+			"resposta" : 1	
+		},
+		{
+			"pergunta" : "Considerando a quantidade de letras qual é a maior palavra?",
+			"resposta" : 1	
+		},
+		{
+			"pergunta" : "Considerando a quantidade de letras qual é a menor palavra?",
+			"resposta" : 1	
+		},
+		{
+			"pergunta" : "Considerando a quantidade de letras qual é a menor palavra?",
+			"resposta" : 0	
+		},
+		{
+			"pergunta" : "Considerando a quantidade de letras, quais as palavras que têm o mesmo número de letras?",
+			"resposta" : 0	
+		}
+	]
+}

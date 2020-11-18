@@ -1,0 +1,125 @@
+{
+	"perguntas": [
+		{
+			"pergunta" : "Marque apenas o objeto branco",
+			"resposta" : 1
+		},
+		{
+			"pergunta" : "Marque apenas o objeto que não é branco",
+			"resposta" : 3	
+		},
+		{
+			"pergunta" : "Na palavra MENINO quantas vogais temos?",
+			"resposta" : 1	
+		},
+		{
+			"pergunta" : "Qual é a primeira letra da palavra Menino?",
+			"resposta" : 0	
+		},
+		{
+			"pergunta" : "Qual é a última letra da palavra Menino?",
+			"resposta" : 2	
+		},
+		{
+			"pergunta" : "Qual é a vogal que não aparece na palavra menino?",
+			"resposta" : 0	
+		},
+		{
+			"pergunta" : "M__NINO",
+			"resposta" : 1	
+		},		
+		{
+			"pergunta" : "MEN__NO",
+			"resposta" : 0
+		},
+		{
+			"pergunta" : "MENIN__",
+			"resposta" : 1	
+		},
+		{
+			"pergunta" : "Qual é o menino branco?",
+			"resposta" : 3	
+		},
+		{
+			"pergunta" : "Quantas letras tem a palavra MENINO?",
+			"resposta" : 0	
+		},
+		{
+			"pergunta" : "Me mostre qual é o algodão",
+			"resposta" : 1	
+		},
+		{
+			"pergunta" : "Me mostre qual é o leite",
+			"resposta" : 2	
+		},
+		{
+			"pergunta" : "Me mostre qual é o boneco de neve",
+			"resposta" : 3	
+		},
+		{
+			"pergunta" : "Quantas vogais tem a palavra leite?",
+			"resposta" : 1	
+		},
+		{
+			"pergunta" : "Quantas vogais tem a palavra algodão?",
+			"resposta" : 3	
+		},
+		{
+			"pergunta" : "Quantas vogais tem a palavra neve?",
+			"resposta" : 1	
+		},
+		{
+			"pergunta" : "Quantas vogais tem a palavra boneco?",
+			"resposta" : 2	
+		},
+		{
+			"pergunta" : "Quantas consoantes tem a palavra leite?",
+			"resposta" : 1	
+		},
+		{
+			"pergunta" : "Quantas consoantes tem a palavra neve?",
+			"resposta" : 1	
+		},
+		{
+			"pergunta" : "Quantas consoantes tem a palavra boneco?",
+			"resposta" : 2	
+		},
+		{
+			"pergunta" : "Selecione o conjunto com 2 leites",
+			"resposta" : 0	
+		},
+		{
+			"pergunta" : "Selecione o conjunto com 4 bonecos brancos",
+			"resposta" : 3	
+		},
+		{
+			"pergunta" : "Selecione o conjunto com 3 bonecos de neve",
+			"resposta" : 0	
+		},
+		{
+			"pergunta" : "N__V__",
+			"resposta" : 0	
+		},
+		{
+			"pergunta" : "__EITE:",
+			"resposta" : 0	
+		},
+		{
+			"pergunta" : "__O__E__O:",
+			"resposta" : 3	
+		},
+		{
+			"pergunta" : "Quantas letras tem a palavra boneco?",
+			"resposta" : 1	
+		},
+		{
+			"pergunta" : "Quantas letras tem a palavra neve?",
+			"resposta" : 1	
+		},
+		{
+			"pergunta" : "Quantas letras tem a palavra leite?",
+			"resposta" : 2	
+		}		
+	]
+
+}

@@ -1,0 +1,148 @@
+{
+	"perguntas": [
+		{
+			"pergunta" : "Marque apenas o objeto PRETO",
+			"resposta" : 0
+		},
+		{
+			"pergunta" : "Marque apenas o objeto que não é PRETO",
+			"resposta" : 0
+		},
+		{
+			"pergunta" : "Na palavra PRETO temos quantas vogais?",
+			"resposta" : 0
+		},
+		{
+			"pergunta" : "A palavra PRETO termina com a vogal A?",
+			"resposta" : 1	
+		},
+		{
+			"pergunta" : "Qual a primeira letra da palavra PRETO?",
+			"resposta" : 1	
+		},
+		{
+			"pergunta" : "Qual vogal não aparece na palavra PRETO?",
+			"resposta" : 0	
+		},
+		{
+			"pergunta" : "Qual o conjunto que aparece os seguintes objetos: JABOTICABA, ESTRADA e NOITE?",
+			"resposta" : 2	
+		},		
+		{
+			"pergunta" : "Qual o conjunto que aparece os seguintes objetos: JABOTICABA, BONECO DE NEVE e BANANA MADURA?",
+			"resposta" : 3
+		},
+		{
+			"pergunta" : "Qual o conjunto que contém 5 JABOTICABAS",
+			"resposta" : 3	
+		},
+		{
+			"pergunta" : "Qual o conjunto que contém 3 JABOTICABAS",
+			"resposta" : 0	
+		},
+		{
+			"pergunta" : "Qual o conjunto que contém 8 JABOTICABAS",
+			"resposta" : 2	
+		},
+		{
+			"pergunta" : "Qual o conjunto que contém 10 JABOTICABAS",
+			"resposta" : 3	
+		},
+		{
+			"pergunta" : "Qual o conjunto que não contém JABOTICABAS",
+			"resposta" : 3	
+		},
+		{
+			"pergunta" : "Selecione o conjunto que contém 4 MENINOS BRANCOS",
+			"resposta" : 3	
+		},
+		{
+			"pergunta" : "Selecione o conjunto que contém 9 MENINOS AMARELOS",
+			"resposta" : 1	
+		},
+		{
+			"pergunta" : "Selecione o conjunto que contém 10 MENINOS PRETOS",
+			"resposta" : 0	
+		},
+		{
+			"pergunta" : "Escolha o número 1",
+			"resposta" : 0	
+		},
+		{
+			"pergunta" : "Escolha o número 2",
+			"resposta" : 1	
+		},
+		{
+			"pergunta" : "Escolha o número 3",
+			"resposta" : 2	
+		},
+		{
+			"pergunta" : "Escolha o número 4",
+			"resposta" : 3	
+		},
+		{
+			"pergunta" : "Escolha o número 5",
+			"resposta" : 0	
+		},
+		{
+			"pergunta" : "Escolha o número 6",
+			"resposta" : 1	
+		},
+		{
+			"pergunta" : "Escolha o número 7",
+			"resposta" : 2	
+		},
+		{
+			"pergunta" : "Escolha o número 8",
+			"resposta" : 3	
+		},
+		{
+			"pergunta" : "Escolha o número 9",
+			"resposta" : 2	
+		},
+		{
+			"pergunta" : "Escolha o número 10",
+			"resposta" : 3	
+		},
+		{
+			"pergunta" : "Selecione o conjunto que tenha apenas MENINOS PRETOS",
+			"resposta" : 1	
+		},
+		{
+			"pergunta" : "Selecione o conjunto vazio",
+			"resposta" : 2	
+		},
+		{
+			"pergunta" : "Quantas vogais tem na palavra JABOTICABA?",
+			"resposta" : 0	
+		},
+		{
+			"pergunta" : "Quantas vogais tem na palavra NOITE?",
+			"resposta" : 2	
+		},
+		{
+			"pergunta" : "Quais as consoantes da palavras JABOTICABA?",
+			"resposta" : 1	
+		},
+		{
+			"pergunta" : "Quais as consoantes da palavra NOITE?",
+			"resposta" : 1	
+		},
+		{
+			"pergunta" : "Qual a palavra possui 5 Vogais?",
+			"resposta" : 0	
+		},
+		{
+			"pergunta" : "Qual dessas cores é branca?",
+			"resposta" : 2	
+		},
+		{
+			"pergunta" : "Qual dessas cores é amarela?",
+			"resposta" : 1	
+		},
+		{
+			"pergunta" : "Qual dessas cores é preta?",
+			"resposta" : 3	
+		}
+	]
+}

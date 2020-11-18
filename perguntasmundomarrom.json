@@ -1,0 +1,141 @@
+{
+	"perguntas": [
+		{
+			"pergunta" : "Marque apenas o objeto MARROM",
+			"resposta" : 0
+		},
+		{
+			"pergunta" : "Marque apenas o objeto que não é MARROM",
+			"resposta" : 2
+		},
+		{
+			"pergunta" : "Na palavra MARROM temos quantas vogais?",
+			"resposta" : 0
+		},
+		{
+			"pergunta" : "Na palavra MARROM temos quantas consoantes?",
+			"resposta" : 2	
+		},
+		{
+			"pergunta" : "Com qual letra termina a palavra MARROM?",
+			"resposta" : 1	
+		},
+		{
+			"pergunta" : "Quantas letras tem a palavra CHOCOLATE?",
+			"resposta" : 2	
+		},
+		{
+			"pergunta" : "Qual a letra que se repete na palavra MARROM?",
+			"resposta" : 0	
+		},		
+		{
+			"pergunta" : "Quais as vogais que aparecem na palavra MARROM e na palavra CHOCOLATE?",
+			"resposta" : 3
+		},
+		{
+			"pergunta" : "O menino Marrom tinha 2 chocolates e sua mãe lhe deu mais 5 chocolates. Quantos chocolates ele tem agora?",
+			"resposta" : 2	
+		},
+		{
+			"pergunta" : "O menino Marrom comprou 3 chocolates e deu um para o menino branco e um para o menino vermelho. Com quantos chocolates o menino marrom ficou?",
+			"resposta" : 0	
+		},
+		{
+			"pergunta" : "Coloquei na minha bolsa 9 chocolates, mas 4 derreteram. Quantos chocolates sem derreter eu tenho na minha bolsa?",
+			"resposta" : 0	
+		},
+		{
+			"pergunta" : "O menino Marrom está colecionando chocolates. Ele já tem 4, ganhou mais 2 do menino branco e 1 do menino amarelo. Com quantos chocolates o Menino Marrom ficou ao todo na sua coleção?",
+			"resposta" : 2	
+		},
+		{
+			"pergunta" : "Escolha o conjunto com mais CHOCOLATES.",
+			"resposta" : 3	
+		},
+		{
+			"pergunta" : "Escolha o conjunto com menos CHOCOLATES.",
+			"resposta" : 2	
+		},
+		{
+			"pergunta" : "Qual o Conjunto que contém apenas TRONCOS DE ÁRVORES?",
+			"resposta" : 0	
+		},
+		{
+			"pergunta" : "Qual o Conjunto que aparecem apenas TRONCOS DE ÁRVORES e CHOCOLATES?",
+			"resposta" : 3	
+		},
+		{
+			"pergunta" : "Qual o Conjunto que aparece apenas MAÇÃS?",
+			"resposta" : 0	
+		},
+		{
+			"pergunta" : "Qual o Conjunto que tem objetos coloridos?",
+			"resposta" : 3	
+		},
+		{
+			"pergunta" : "Qual o conjunto que contém 6 maçãs?",
+			"resposta" : 1	
+		},
+		{
+			"pergunta" : "Qual o conjunto que contém 7 morangos?",
+			"resposta" : 2	
+		},
+		{
+			"pergunta" : "Qual o conjunto que contém 9 corações?",
+			"resposta" : 0	
+		},
+		{
+			"pergunta" : "Tenho cinco maçãs. Qual desses é o numeral cinco?",
+			"resposta" : 0	
+		},
+		{
+			"pergunta" : "Tenho nove morangos. Qual desses é o numeral nove?",
+			"resposta" : 2	
+		},
+		{
+			"pergunta" : "Tenho dez corações. Qual desses é o numeral dez?",
+			"resposta" : 3	
+		},
+		{
+			"pergunta" : "Tenho um morango. Qual desses é o numeral um?",
+			"resposta" : 0	
+		},
+		{
+			"pergunta" : "Tenho duas maçãs. Qual desses é o numeral dois?",
+			"resposta" : 1	
+		},
+		{
+			"pergunta" : "Tenho sete corações. Qual desses é o numeral sete?",
+			"resposta" : 2	
+		},
+		{
+			"pergunta" : "Tenho seis morangos. Qual desses é o numeral seis?",
+			"resposta" : 1	
+		},
+		{
+			"pergunta" : "Qual o conjunto que contém 9 TRONCOS DE ÁRVORES?",
+			"resposta" : 2	
+		},
+		{
+			"pergunta" : "Qual o conjunto que contém 7 TRONCOS DE ÁRVORES?",
+			"resposta" : 2	
+		},
+		{
+			"pergunta" : "Qual o conjunto que contém 5 TRONCOS DE ÁRVORES?",
+			"resposta" : 3	
+		},
+		{
+			"pergunta" : "Qual o conjunto que contém 3 TRONCOS DE ÁRVORES?",
+			"resposta" : 0	
+		},
+		{
+			"pergunta" : "Qual o conjunto que contém 1 TRONCO DE ÁRVORE?",
+			"resposta" : 1	
+		},
+
+		{
+			"pergunta" : "O Menino Marrom tinha 10 chocolates comeu 3 pela manhã e 2 a tarde. Quantos chocolates ele tinha de noite?",
+			"resposta" : 0	
+		}
+	]
+}
